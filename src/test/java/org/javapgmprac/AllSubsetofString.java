@@ -14,4 +14,6 @@ public class AllSubsetofString {
         }
     }
 
+    public static class CloseNumberToElementInArray {
+    }
 }
